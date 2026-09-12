@@ -5,6 +5,7 @@ A modern, interactive typing speed test designed to help users improve their typ
 🌐 **Live Demo:** https://vigneshmadasamy45.github.io/typemaster/
 
 ---
+<img width="791" height="379" alt="typemaster" src="https://github.com/user-attachments/assets/bd191c98-aabf-4142-af52-3303adc414eb" />
 
 ## ✨ Features
 
